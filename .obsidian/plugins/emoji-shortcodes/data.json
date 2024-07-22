@@ -1,0 +1,29 @@
+{
+  "immediateReplace": true,
+  "suggester": true,
+  "historyPriority": true,
+  "historyLimit": 100,
+  "history": [
+    ":timer_clock:",
+    ":money_with_wings:",
+    ":100:",
+    ":plate_with_cutlery:",
+    ":card_file_box:",
+    ":warning:",
+    ":hammer_and_pick:",
+    ":hiking_boot:",
+    ":tshirt:",
+    ":battery:",
+    ":envelope:",
+    ":electric_plug:",
+    ":technologist:",
+    ":derelict_house:",
+    ":kneeling_person:",
+    ":ok_hand:",
+    ":sponge:",
+    ":shirt:",
+    ":email:",
+    ":e-mail:",
+    ":spiral_notepad:"
+  ]
+}

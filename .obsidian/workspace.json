@@ -1,0 +1,232 @@
+{
+  "main": {
+    "id": "c1417bcd6e7db65d",
+    "type": "split",
+    "children": [
+      {
+        "id": "2394736047869aef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a8ca70ec0edf27c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "work/README.md.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "016e0e21be53f5f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "work/mails/✉ 240722 murielle.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "67304f04bc4a42a5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3aff8bebeae21c62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "work/work done.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d9bb54fea318341c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily/2024-07-22.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9f74e2ebd746c8c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d3df0f51a390a28",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f0b21aaa44e382b8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e7cfe6cd8658c8aa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9bcb112495c00d72",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 216.5
+  },
+  "right": {
+    "id": "8594cebaf1dd93ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "23f0a4206b6dab55",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf2a869a2b072da0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "work/README.md.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "18d6f954e59c179c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "work/README.md.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "401bc4bb456d040b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "76124120434cb6b4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "work/README.md.md"
+              }
+            }
+          },
+          {
+            "id": "47f88fbd3a996b74",
+            "type": "leaf",
+            "state": {
+              "type": "stats-tracker",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a8ca70ec0edf27c3",
+  "lastOpenFiles": [
+    "vault",
+    "work/mails/✉ 240722 murielle.md",
+    "work/README.md.md",
+    "work/Développeur Public.md",
+    "spécimen typographique.md",
+    "TRACKER.md",
+    "daily/2024-07-22.md",
+    "work/work done.md",
+    "work/mails/✉ 240722 sylvie.md",
+    "tickets de caisse.md",
+    "work/mails/✉ 240722 potentiel-it.md",
+    "2024-07-22.md",
+    "Untitled",
+    "daily",
+    "Untitled.md",
+    "work/interim",
+    "work/interim/CEVA JO2024.md",
+    "work/encore/encore.md",
+    "Martin Campillo.md",
+    "work/encore",
+    "work/MBC/Dr. Walid Layoun.md",
+    "Untitled.canvas",
+    "work/MBC",
+    "work/mails",
+    "work/MBC/Ma Boite de Com.md",
+    "Nicolas Dau.md",
+    "Nedcord.world.md",
+    "work",
+    "Welcome.md"
+  ]
+}
