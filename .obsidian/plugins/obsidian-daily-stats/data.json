@@ -1,71 +1,36 @@
 {
   "dayCounts": {
-    "2024/6/22": 781
+    "2024/6/22": 825,
+    "2024/6/23": 59
   },
   "todaysWordCount": {
-    "work/README.md.md": {
-      "initial": 48,
-      "current": 44
-    },
-    "work/Développeur Public.md": {
-      "initial": 0,
-      "current": 151
-    },
-    "potentiel-it.md": {
-      "initial": 61,
-      "current": 200
-    },
-    "encore.md": {
-      "initial": 0,
-      "current": 8
-    },
-    "work/work done.md": {
-      "initial": 26,
-      "current": 44
-    },
-    "work/encore/encore.md": {
-      "initial": 8,
-      "current": 44
-    },
-    "work/mails/✉ potentiel-it.md": {
-      "initial": 200,
-      "current": 200
-    },
-    "tickets de caisse.md": {
-      "initial": 7769,
-      "current": 4978
-    },
-    "CEVA JO2024.md": {
-      "initial": 1,
-      "current": 14
-    },
-    "work/mails/✉ 240722 murielle.md": {
-      "initial": 24,
-      "current": 77
-    },
-    "work/mails/✉ 240722 sylvie.md": {
-      "initial": 121,
-      "current": 105
-    },
-    "Untitled.md": {
-      "initial": 16,
-      "current": 16
-    },
-    "daily/2024-07-22.md": {
-      "initial": 1,
-      "current": 63
+    "spécimen typographique.md": {
+      "initial": 252,
+      "current": 252
     },
     "TRACKER.md": {
+      "initial": 54,
+      "current": 62
+    },
+    "work/Développeur Public.md": {
+      "initial": 175,
+      "current": 193
+    },
+    "daily/2024-07-23.md": {
+      "initial": 11,
+      "current": 17
+    },
+    "work/README.md.md": {
+      "initial": 44,
+      "current": 64
+    },
+    "work/MBC/Ma Boite de Com.md": {
+      "initial": 3,
+      "current": 6
+    },
+    "Dr. Claire Baptista.md": {
       "initial": 1,
-      "current": 54
-    },
-    "2024-07-22.md": {
-      "initial": 52,
-      "current": 52
-    },
-    "spécimen typographique.md": {
-      "initial": 0,
-      "current": 248
+      "current": 5
     }
   }
 }

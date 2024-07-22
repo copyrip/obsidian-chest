@@ -3,10 +3,10 @@
 * [ ] fun fonts ?
 	* [ ] coca cola
 * [ ] VTF fonts
-* [ ] [Pilowlava](https://velvetyne.fr/fonts/pilowlava/)
-* [ ] [Ouvrières](https://velvetyne.fr/fonts/ouvrieres/)
-* [ ] [Lineal](https://velvetyne.fr/fonts/lineal/)
-* [ ] [BianZhiDai](https://velvetyne.fr/fonts/bianzhidai/)
+	* [x] [Pilowlava](https://velvetyne.fr/fonts/pilowlava/)
+	* [x] [Ouvrières](https://velvetyne.fr/fonts/ouvrieres/)
+	* [x] [Lineal](https://velvetyne.fr/fonts/lineal/)
+	* [x] [BianZhiDai](https://velvetyne.fr/fonts/bianzhidai/)
 * [ ] [Jgs font](https://velvetyne.fr/fonts/jgs-font/)
 * [ ] [Fungal](https://velvetyne.fr/fonts/fungal/)
 - [Lithops](https://velvetyne.fr/fonts/lithops/)

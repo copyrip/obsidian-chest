@@ -1,6 +1,11 @@
 Le développeur public est une personne qui développe des sites internet, écrits des pages webs, pour celles et ceux qui ne savent pas faire de programmation ou qui maîtrisent mal l'informatique.
 
-
+* [ ] page exemple avec metadonées, template, etc...
+* [ ] ticket de caisse finalisé
+* [ ] systeme simple valeurs random ?
+* [ ] librairie js perso
+	* [ ] shake
+      
 ### Services proposés
 * création de page web personnalisée !
 * envoi d'email
@@ -11,6 +16,16 @@ Le développeur public est une personne qui développe des sites internet, écri
 * Quelle est la différence entre un site web et une page web ?
 * Combien ça coûte tout ça ?
 
+###  Materiel
+* [ ] 🪑 chaise pliable
+* [ ] 📂 porte vues (typos, et autre...)
+* [ ] 📦 table
+
+#### slogans
+* garanti sans I.A.
+* garanti sans GAFAM
+* garanti sans surveillance
+* garanti sans cookie)s
 ## Process
 
 ### design

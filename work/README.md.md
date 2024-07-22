@@ -7,8 +7,9 @@
 * [ ] 🗒 Clear process [[Développeur Public]]
 * [ ] 🧑‍💻 Autofrontpage [[Développeur Public]]
 	* [ ] meta tags
-	* [ ] url
-	* [ ] ...
+	* [x] url
+	* [ ] design
+	* [ ] infos ?
 * [ ] 🧑‍💻 Ressources [[Développeur Public]]
 	* [ ] animations
 	* [ ] fonts
@@ -17,8 +18,14 @@
 	* [ ] vidéos
 	* [ ] ...
 
-	H O M E
-    
+H O M E
+* [ ] 🪴 clean outside
+* [ ] 🔨trouver marteau
+* [ ] 🖼 décoration
+
+W E B H O M E
+* [ ] 🧹 clean server
+* [ ] 💸 transparency about costs
 
 [[work done]]
 

@@ -6,56 +6,27 @@
       {
         "id": "2394736047869aef",
         "type": "tabs",
+        "dimension": 47.465753424657535,
         "children": [
-          {
-            "id": "a8ca70ec0edf27c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "work/README.md.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
           {
             "id": "016e0e21be53f5f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "work/mails/✉ 240722 murielle.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "67304f04bc4a42a5",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "3aff8bebeae21c62",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "work/work done.md",
+                "file": "daily/2024-07-23.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d9bb54fea318341c",
+            "id": "36104f5f955498e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2024-07-22.md",
+                "file": "work/interim/CEVA JO2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -63,6 +34,33 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "ec27918ef5171401",
+        "type": "tabs",
+        "dimension": 52.53424657534247,
+        "children": [
+          {
+            "id": "c0c9b59ba0959ca6",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "b9e36e98df284b5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dr. Claire Baptista.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "work/README.md.md",
+                "file": "work/interim/CEVA JO2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "work/README.md.md",
+                "file": "work/interim/CEVA JO2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "work/README.md.md"
+                "file": "work/interim/CEVA JO2024.md"
               }
             }
           },
@@ -197,25 +195,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a8ca70ec0edf27c3",
+  "active": "36104f5f955498e1",
   "lastOpenFiles": [
-    "vault",
-    "work/mails/✉ 240722 murielle.md",
     "work/README.md.md",
-    "work/Développeur Public.md",
-    "spécimen typographique.md",
-    "TRACKER.md",
+    "daily/2024-07-23.md",
     "daily/2024-07-22.md",
+    "tickets de caisse.md",
+    "work/Développeur Public.md",
+    "work/MBC/Ma Boite de Com.md",
+    "Dr. Claire Baptista.md",
+    "TRACKER.md",
+    "spécimen typographique.md",
+    "work/mails/✉ 240722 murielle.md",
+    "work/interim/CEVA JO2024.md",
+    "vault",
     "work/work done.md",
     "work/mails/✉ 240722 sylvie.md",
-    "tickets de caisse.md",
     "work/mails/✉ 240722 potentiel-it.md",
     "2024-07-22.md",
     "Untitled",
     "daily",
     "Untitled.md",
     "work/interim",
-    "work/interim/CEVA JO2024.md",
     "work/encore/encore.md",
     "Martin Campillo.md",
     "work/encore",
@@ -223,7 +224,6 @@
     "Untitled.canvas",
     "work/MBC",
     "work/mails",
-    "work/MBC/Ma Boite de Com.md",
     "Nicolas Dau.md",
     "Nedcord.world.md",
     "work",

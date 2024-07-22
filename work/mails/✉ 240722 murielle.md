@@ -26,3 +26,14 @@ Maintenance
 ## Streaming Video
 
 ## Graphisme
+
+### Informatique
+* réparation ordinateur
+* diagnostic général
+
+
+Expertise
+* formation logicielle
+* formation outils en ligne
+* formation outils ia
+* formation 

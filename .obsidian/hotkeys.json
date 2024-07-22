@@ -124,5 +124,14 @@
       ],
       "key": "L"
     }
+  ],
+  "daily-notes": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "Enter"
+    }
   ]
 }
