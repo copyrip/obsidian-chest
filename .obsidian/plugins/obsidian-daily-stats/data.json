@@ -1,7 +1,7 @@
 {
   "dayCounts": {
     "2024/6/22": 825,
-    "2024/6/23": 59
+    "2024/6/23": 115
   },
   "todaysWordCount": {
     "spécimen typographique.md": {
@@ -14,11 +14,11 @@
     },
     "work/Développeur Public.md": {
       "initial": 175,
-      "current": 193
+      "current": 198
     },
     "daily/2024-07-23.md": {
       "initial": 11,
-      "current": 17
+      "current": 40
     },
     "work/README.md.md": {
       "initial": 44,
@@ -31,6 +31,10 @@
     "Dr. Claire Baptista.md": {
       "initial": 1,
       "current": 5
+    },
+    "caisse de dons.md": {
+      "initial": 0,
+      "current": 28
     }
   }
 }

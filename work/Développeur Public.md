@@ -20,6 +20,9 @@ Le développeur public est une personne qui développe des sites internet, écri
 * [ ] 🪑 chaise pliable
 * [ ] 📂 porte vues (typos, et autre...)
 * [ ] 📦 table
+* [ ] 🏖 parasol
+* [ ] 🚩 pancartes
+* [ ] ❔[[caisse de dons]]
 
 #### slogans
 * garanti sans I.A.

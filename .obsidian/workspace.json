@@ -26,19 +26,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "work/interim/CEVA JO2024.md",
-                "mode": "source",
+                "file": "TRACKER.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "ec27918ef5171401",
         "type": "tabs",
-        "dimension": 52.53424657534247,
+        "dimension": 52.534246575342465,
         "children": [
           {
             "id": "c0c9b59ba0959ca6",
@@ -126,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "work/interim/CEVA JO2024.md",
+                "file": "daily/2024-07-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "work/interim/CEVA JO2024.md",
+                "file": "daily/2024-07-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "work/interim/CEVA JO2024.md"
+                "file": "daily/2024-07-23.md"
               }
             }
           },
@@ -195,19 +194,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "36104f5f955498e1",
+  "active": "016e0e21be53f5f4",
   "lastOpenFiles": [
-    "work/README.md.md",
+    "TRACKER.md",
     "daily/2024-07-23.md",
+    "work/Développeur Public.md",
+    "caisse de dons.md",
+    "work/interim/CEVA JO2024.md",
+    "work/README.md.md",
     "daily/2024-07-22.md",
     "tickets de caisse.md",
-    "work/Développeur Public.md",
     "work/MBC/Ma Boite de Com.md",
     "Dr. Claire Baptista.md",
-    "TRACKER.md",
     "spécimen typographique.md",
     "work/mails/✉ 240722 murielle.md",
-    "work/interim/CEVA JO2024.md",
     "vault",
     "work/work done.md",
     "work/mails/✉ 240722 sylvie.md",
