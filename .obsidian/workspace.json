@@ -4,56 +4,51 @@
     "type": "split",
     "children": [
       {
-        "id": "2394736047869aef",
+        "id": "09887812cd186c5e",
         "type": "tabs",
-        "dimension": 47.465753424657535,
+        "dimension": 77.59036144578313,
         "children": [
           {
-            "id": "016e0e21be53f5f4",
+            "id": "e189e5e6eecca245",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2024-07-23.md",
+                "file": "work/README.md.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "36104f5f955498e1",
+            "id": "81fbdbf56d60ecdb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "TRACKER.md",
-                "mode": "preview",
-                "source": false
+                "file": "work/encore/wiring diagram.canvas",
+                "viewState": {
+                  "x": 266.1079977075569,
+                  "y": -285.01146428392605,
+                  "zoom": -0.5717130532196263
+                }
               }
             }
           }
         ]
       },
       {
-        "id": "ec27918ef5171401",
+        "id": "d7d676e7e9c65e72",
         "type": "tabs",
-        "dimension": 52.534246575342465,
+        "dimension": 22.40963855421687,
         "children": [
           {
-            "id": "c0c9b59ba0959ca6",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "b9e36e98df284b5f",
+            "id": "ec9e96065c39c2b9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dr. Claire Baptista.md",
+                "file": "work/work done.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 216.5
+    "width": 200
   },
   "right": {
     "id": "8594cebaf1dd93ef",
@@ -125,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2024-07-23.md",
+                "file": "work/README.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2024-07-23.md",
+                "file": "work/README.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2024-07-23.md"
+                "file": "work/README.md.md"
               }
             }
           },
@@ -191,42 +186,45 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "016e0e21be53f5f4",
+  "active": "e189e5e6eecca245",
   "lastOpenFiles": [
-    "TRACKER.md",
-    "daily/2024-07-23.md",
-    "work/Développeur Public.md",
-    "caisse de dons.md",
-    "work/interim/CEVA JO2024.md",
+    "work/encore/wiring diagram.canvas",
     "work/README.md.md",
+    "work/encore/encore.md",
+    "daily/2024-07-24.md",
+    "daily/2024-07-23.md",
     "daily/2024-07-22.md",
+    "work/work done.md",
+    "work/interim/CEVA JO2024.md",
+    "2024-07-27 ceva jo.md",
+    "events/(Every S,F) la friche - on air.md",
+    "events",
+    "2024-07-26 ceva jo.md",
+    "Untitled 1.md",
+    "work/mails/✉ 240722 murielle.md",
+    "TRACKER.md",
+    "Dr. Claire Baptista.md",
+    "work/Développeur Public.md",
+    "Martin Campillo.md",
+    "caisse de dons.md",
     "tickets de caisse.md",
     "work/MBC/Ma Boite de Com.md",
-    "Dr. Claire Baptista.md",
     "spécimen typographique.md",
-    "work/mails/✉ 240722 murielle.md",
     "vault",
-    "work/work done.md",
     "work/mails/✉ 240722 sylvie.md",
     "work/mails/✉ 240722 potentiel-it.md",
     "2024-07-22.md",
-    "Untitled",
     "daily",
     "Untitled.md",
     "work/interim",
-    "work/encore/encore.md",
-    "Martin Campillo.md",
     "work/encore",
     "work/MBC/Dr. Walid Layoun.md",
-    "Untitled.canvas",
     "work/MBC",
     "work/mails",
-    "Nicolas Dau.md",
-    "Nedcord.world.md",
-    "work",
-    "Welcome.md"
+    "work"
   ]
 }

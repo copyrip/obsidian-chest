@@ -1,5 +1,8 @@
-#### 2024-07-22
+#### 2024-07-23
+* [x] ⚒ Préparer [[CEVA JO2024]]
+* [x] 📧 Réponse Carla
 
+#### 2024-07-22
 * [x] 🔌 [[encore]] e-ink partial refresh
 * [x] 🔌 Test ticket [[Développeur Public]]
 	* [x] various font size ?

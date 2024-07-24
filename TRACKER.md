@@ -2,7 +2,7 @@
 searchType: dvField
 searchTarget: wakeUp, lunch, dinner, sleep
 startDate: 2024-07-22
-endDate: 2024-08-22
+endDate: 2024-07-29
 
 
 line:

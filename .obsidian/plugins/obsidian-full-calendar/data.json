@@ -1,0 +1,21 @@
+{
+  "calendarSources": [
+    {
+      "type": "local",
+      "color": "#0000ff",
+      "directory": "/"
+    },
+    {
+      "type": "local",
+      "color": "#c1390b",
+      "directory": "events"
+    }
+  ],
+  "defaultCalendar": 0,
+  "firstDay": 1,
+  "initialView": {
+    "desktop": "timeGridWeek",
+    "mobile": "listWeek"
+  },
+  "timeFormat24h": true
+}

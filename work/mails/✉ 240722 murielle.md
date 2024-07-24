@@ -35,5 +35,5 @@ Maintenance
 Expertise
 * formation logicielle
 * formation outils en ligne
-* formation outils ia
+* formation outils ia (chat gpt, midjourney, claude, ...)
 * formation 
