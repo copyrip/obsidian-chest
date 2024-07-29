@@ -2,13 +2,13 @@
   "calendarSources": [
     {
       "type": "local",
-      "color": "#0000ff",
-      "directory": "/"
+      "color": "#8036c9",
+      "directory": "events/ceva (proman)"
     },
     {
       "type": "local",
-      "color": "#c1390b",
-      "directory": "events"
+      "color": "#b86f0a",
+      "directory": "events/friche on air"
     }
   ],
   "defaultCalendar": 0,

@@ -4,46 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "09887812cd186c5e",
+        "id": "d2839af4488ba672",
         "type": "tabs",
-        "dimension": 77.59036144578313,
         "children": [
           {
-            "id": "e189e5e6eecca245",
+            "id": "5ea85aeb567fb809",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "work/README.md.md",
+                "file": "daily/2024-07-29.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "81fbdbf56d60ecdb",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "work/encore/wiring diagram.canvas",
-                "viewState": {
-                  "x": 266.1079977075569,
-                  "y": -285.01146428392605,
-                  "zoom": -0.5717130532196263
-                }
               }
             }
           }
         ]
       },
       {
-        "id": "d7d676e7e9c65e72",
+        "id": "8f65cc998ec1481c",
         "type": "tabs",
-        "dimension": 22.40963855421687,
         "children": [
           {
-            "id": "ec9e96065c39c2b9",
+            "id": "e23ca5d74563a7f2",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "0fc174605c23910f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "reco Baptista.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "56745fa6bba13feb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -54,7 +57,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -120,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "work/README.md.md",
+                "file": "daily/2024-07-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "work/README.md.md",
+                "file": "daily/2024-07-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,25 +159,25 @@
             }
           },
           {
-            "id": "76124120434cb6b4",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "work/README.md.md"
-              }
-            }
-          },
-          {
             "id": "47f88fbd3a996b74",
             "type": "leaf",
             "state": {
               "type": "stats-tracker",
               "state": {}
             }
+          },
+          {
+            "id": "82d4f1e4482039e8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "daily/2024-07-29.md"
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -190,39 +194,42 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "e189e5e6eecca245",
+  "active": "5ea85aeb567fb809",
   "lastOpenFiles": [
-    "work/encore/wiring diagram.canvas",
+    "daily/2024-07-28.md",
+    "daily/2024-07-29.md",
     "work/README.md.md",
-    "work/encore/encore.md",
-    "daily/2024-07-24.md",
-    "daily/2024-07-23.md",
-    "daily/2024-07-22.md",
     "work/work done.md",
-    "work/interim/CEVA JO2024.md",
-    "2024-07-27 ceva jo.md",
-    "events/(Every S,F) la friche - on air.md",
-    "events",
-    "2024-07-26 ceva jo.md",
+    "events/ceva (proman)/2024-07-30 ceva jo.md",
+    "daily/2024-07-25.md",
     "Untitled 1.md",
-    "work/mails/✉ 240722 murielle.md",
+    "reco Baptista.md",
+    "work/MBC/Dr. Walid Layoun.md",
     "TRACKER.md",
-    "Dr. Claire Baptista.md",
-    "work/Développeur Public.md",
-    "Martin Campillo.md",
-    "caisse de dons.md",
-    "tickets de caisse.md",
-    "work/MBC/Ma Boite de Com.md",
-    "spécimen typographique.md",
+    "events/ceva (proman)/2024-08-12 ceva jo.md",
+    "events/ceva (proman)/2024-08-10 ceva jo.md",
+    "Untitled 2.md",
+    "events/friche on air/(Every S,F) la friche - on air.md",
+    "events/ceva (proman)/2024-07-26 ceva jo.md",
+    "events/friche on air",
+    "events/ceva (proman)/2024-07-29 ceva jo.md",
+    "events/ceva (proman)",
+    "events/ceva (proman)/2024-08-05 ceva jo.md",
+    "2024-08-10 ceva jo.md",
+    "events/ceva (proman)/2024-08-08 ceva jo.md",
+    "events/ceva (proman)/2024-08-07 ceva jo.md",
+    "events/ceva (proman)/2024-08-06 ceva jo.md",
+    "events/ceva (proman)/2024-08-03 ceva jo.md",
+    "events/ceva (proman)/2024-08-02 ceva jo.md",
+    "events/ceva (proman)/2024-08-01 ceva jo.md",
+    "events/ceva (proman)/2024-07-31 ceva jo.md",
+    "events/ceva (proman)/2024-07-28 ceva jo.md",
+    "work/encore/wiring diagram.canvas",
+    "events",
     "vault",
-    "work/mails/✉ 240722 sylvie.md",
-    "work/mails/✉ 240722 potentiel-it.md",
-    "2024-07-22.md",
     "daily",
-    "Untitled.md",
     "work/interim",
     "work/encore",
-    "work/MBC/Dr. Walid Layoun.md",
     "work/MBC",
     "work/mails",
     "work"

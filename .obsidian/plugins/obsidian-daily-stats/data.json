@@ -2,40 +2,22 @@
   "dayCounts": {
     "2024/6/22": 825,
     "2024/6/23": 115,
-    "2024/6/24": 96
+    "2024/6/24": 99,
+    "2024/6/25": 254,
+    "2024/6/29": 60
   },
   "todaysWordCount": {
-    "daily/2024-07-23.md": {
-      "initial": 39,
-      "current": 44
-    },
-    "daily/2024-07-24.md": {
-      "initial": 10,
-      "current": 51
-    },
-    "work/encore/encore.md": {
-      "initial": 44,
-      "current": 46
-    },
-    "TRACKER.md": {
-      "initial": 62,
-      "current": 62
+    "daily/2024-07-29.md": {
+      "initial": 14,
+      "current": 50
     },
     "work/README.md.md": {
-      "initial": 61,
-      "current": 98
+      "initial": 127,
+      "current": 137
     },
-    "daily/2024-07-22.md": {
-      "initial": 63,
-      "current": 67
-    },
-    "work/mails/✉ 240722 murielle.md": {
-      "initial": 93,
-      "current": 97
-    },
-    "work/work done.md": {
-      "initial": 51,
-      "current": 54
+    "daily/2024-07-28.md": {
+      "initial": 0,
+      "current": 14
     }
   }
 }

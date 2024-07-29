@@ -1,13 +1,24 @@
-		* [ ] 🧙‍♀ Lire texte Michèle
+* [x] 📧 Réponse Mom
 * [ ] 📧 Réponse Mom
+* [x] 📧 Mail Colin
+* [ ]  ✅ verifier planning ceva
+* [ ] 📧 Mail Pole Emploi
+* [ ] 📧 Contacter GRETA
 * [ ] 📧 Réponse Carla
+* [ ] 🗒 Inscription [[✉ 240722 potentiel-it]]
+* [ ] 🛒 Courses repas
+* [ ] 🏚 ranger salon
+* [ ] 💸 faire les comptes
+
+* [ ] 🧙‍♀ Lire texte Michèle
 * [ ] 📧 Proposition Julien
 * [ ] 🧑‍💻 Proposition Julien
 * [ ] 🧑‍💻 Proposition Alexis
 * [ ] 📧 Mail [[✉ 240722 sylvie]]
 * [ ] 📧 Mail [[✉ 240722 murielle]]
 * [ ] 🧑‍💻Dr. Baptista
-* [ ] 🗒 Inscription [[✉ 240722 potentiel-it]]
+
+O U T D O O R   C O M P U T I N G
 * [ ] 🗒 Clear process [[Développeur Public]]
 * [ ] 🧑‍💻 Autofrontpage [[Développeur Public]]
 	* [ ] meta tags
@@ -32,14 +43,16 @@
 	* [ ] start documentation
 
 H O M E
-* [ ] 🪴 clean outside
 * [ ] 🔨trouver marteau
 * [ ] 🖼 décoration
-* [x] 📦 clean transparent displays
+* [ ] 🏚 clean studio
+
 
 W E B H O M E
 * [ ] 🧹 clean server
 * [ ] 💸 transparency about costs
+* [ ] 🪶 mail signature
+* [ ] 🪶 buy mail for JB
 
 [[work done]]
 

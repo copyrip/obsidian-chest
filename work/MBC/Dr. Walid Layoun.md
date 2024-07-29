@@ -1,5 +1,10 @@
 #done4now
 
+
+### ideas
+* page chirugieduvisage.fr/chirugieduvisage
+* 
+
 Post audit
 * résolution meta tags
 
