@@ -1,10 +1,5 @@
-* [x] 📧 Réponse Mom
-* [ ] 📧 Réponse Mom
-* [x] 📧 Mail Colin
-* [ ]  ✅ verifier planning ceva
 * [ ] 📧 Mail Pole Emploi
 * [ ] 📧 Contacter GRETA
-* [ ] 📧 Réponse Carla
 * [ ] 🗒 Inscription [[✉ 240722 potentiel-it]]
 * [ ] 🛒 Courses repas
 * [ ] 🏚 ranger salon
@@ -17,6 +12,17 @@
 * [ ] 📧 Mail [[✉ 240722 sylvie]]
 * [ ] 📧 Mail [[✉ 240722 murielle]]
 * [ ] 🧑‍💻Dr. Baptista
+
+P E O P L E
+* [ ] Karim
+* [ ] Murielle
+* [ ] Sylvie
+* [ ] Morgienne
+* [ ] Blazy
+* [ ] Bartholl
+* [ ] Blondy
+* [ ] Dédé
+* [ ] 
 
 O U T D O O R   C O M P U T I N G
 * [ ] 🗒 Clear process [[Développeur Public]]
@@ -46,6 +52,16 @@ H O M E
 * [ ] 🔨trouver marteau
 * [ ] 🖼 décoration
 * [ ] 🏚 clean studio
+
+
+* [ ] 📆 calendar on the wall
+* [ ] 🏚 mtg poster bunker
+* [ ] 🏚 thinkpad n2
+* [ ] 📶 wifi name and password ?
+	* [ ] 13connecté?
+	* [ ] helloWorld
+	* [ ] Madeleine & Martin's cyberhome
+	* [ ] Solidarité pour les sans papiers
 
 
 W E B H O M E

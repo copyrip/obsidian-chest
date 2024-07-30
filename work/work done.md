@@ -1,4 +1,12 @@
-#### 2024-07-25
+#### 2024-07-29 (lundi)
+* [x] 📧 Réponse Mom
+* [x]  ✅ verifier planning ceva
+* [x] 📧 Mail Colin
+* [x] 📧 Réponse Mom
+* [x] Mail Cloé (doctolib)
+* [x] 📧 Réponse Carla
+
+#### 2024-07-25  (jeudi)
 * [x] ⚠ Horaires sur calendrier !
 #### 2024-07-24
 * [x] 📦 clean transparent displays

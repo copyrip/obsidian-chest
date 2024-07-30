@@ -4,61 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "d2839af4488ba672",
+        "id": "8f65cc998ec1481c",
         "type": "tabs",
         "children": [
           {
-            "id": "5ea85aeb567fb809",
+            "id": "a85949fe885d8f00",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2024-07-29.md",
+                "file": "work/README.md.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ]
-      },
-      {
-        "id": "8f65cc998ec1481c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e23ca5d74563a7f2",
-            "type": "leaf",
-            "state": {
-              "type": "full-calendar-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "0fc174605c23910f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "reco Baptista.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "56745fa6bba13feb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "work/work done.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -108,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 206.5
   },
   "right": {
     "id": "8594cebaf1dd93ef",
@@ -124,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2024-07-29.md",
+                "file": "work/README.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2024-07-29.md",
+                "file": "work/README.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2024-07-29.md"
+                "file": "work/README.md.md"
               }
             }
           }
@@ -194,21 +155,30 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "5ea85aeb567fb809",
+  "active": "a85949fe885d8f00",
   "lastOpenFiles": [
-    "daily/2024-07-28.md",
     "daily/2024-07-29.md",
     "work/README.md.md",
+    "work/MBC/Recommendations Baptista.md",
     "work/work done.md",
-    "events/ceva (proman)/2024-07-30 ceva jo.md",
-    "daily/2024-07-25.md",
+    "Martin Campillo.md",
+    "caisse de dons.md",
+    "Pasted image 20240729112232.png",
+    "Untitled 2.md",
     "Untitled 1.md",
-    "reco Baptista.md",
+    "Untitled.md",
+    "work/MBC/Dr. Claire Baptista.md",
+    "daily/2024-07-22.md",
+    "daily/2024-07-23.md",
+    "daily/2024-07-24.md",
+    "daily/2024-07-25.md",
     "work/MBC/Dr. Walid Layoun.md",
+    "work/MBC/Ma Boite de Com.md",
+    "daily/2024-07-28.md",
+    "events/ceva (proman)/2024-07-30 ceva jo.md",
     "TRACKER.md",
     "events/ceva (proman)/2024-08-12 ceva jo.md",
     "events/ceva (proman)/2024-08-10 ceva jo.md",
-    "Untitled 2.md",
     "events/friche on air/(Every S,F) la friche - on air.md",
     "events/ceva (proman)/2024-07-26 ceva jo.md",
     "events/friche on air",
@@ -216,14 +186,6 @@
     "events/ceva (proman)",
     "events/ceva (proman)/2024-08-05 ceva jo.md",
     "2024-08-10 ceva jo.md",
-    "events/ceva (proman)/2024-08-08 ceva jo.md",
-    "events/ceva (proman)/2024-08-07 ceva jo.md",
-    "events/ceva (proman)/2024-08-06 ceva jo.md",
-    "events/ceva (proman)/2024-08-03 ceva jo.md",
-    "events/ceva (proman)/2024-08-02 ceva jo.md",
-    "events/ceva (proman)/2024-08-01 ceva jo.md",
-    "events/ceva (proman)/2024-07-31 ceva jo.md",
-    "events/ceva (proman)/2024-07-28 ceva jo.md",
     "work/encore/wiring diagram.canvas",
     "events",
     "vault",

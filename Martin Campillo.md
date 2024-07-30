@@ -1,5 +1,5 @@
 ## avec [[Astroturf]]
-* developpement site web
+* developpement site *web*
 * wordpress
 	* migration
 	* themes customisés
