@@ -1,11 +1,9 @@
 * [ ] 📧 Mail Pole Emploi
 * [ ] 📧 Contacter GRETA
 * [ ] 🗒 Inscription [[✉ 240722 potentiel-it]]
-* [ ] 🛒 Courses repas
-* [ ] 🏚 ranger salon
 * [ ] 💸 faire les comptes
 
-* [ ] 🧙‍♀ Lire texte Michèle
+* [ ] 🧙‍♀ Lire texte Michèle [[La magie sauvera-t-elle le monde]]
 * [ ] 📧 Proposition Julien
 * [ ] 🧑‍💻 Proposition Julien
 * [ ] 🧑‍💻 Proposition Alexis
@@ -22,7 +20,7 @@ P E O P L E
 * [ ] Bartholl
 * [ ] Blondy
 * [ ] Dédé
-* [ ] 
+* [ ] Pauline
 
 O U T D O O R   C O M P U T I N G
 * [ ] 🗒 Clear process [[Développeur Public]]

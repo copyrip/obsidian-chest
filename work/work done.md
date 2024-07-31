@@ -1,3 +1,8 @@
+#### 2024-07-31 (mercredi)
+* [x] 🛒 Courses repas
+* [x] 🏚 ranger salon
+* [x] 📧 Mail Bachellerie
+#### 2024-07-30 (mardi)
 #### 2024-07-29 (lundi)
 * [x] 📧 Réponse Mom
 * [x]  ✅ verifier planning ceva

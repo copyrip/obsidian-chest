@@ -1,0 +1,36 @@
+{
+  "dayCounts": {
+    "2024/6/30": 38,
+    "2024/6/31": 23
+  },
+  "todaysWordCount": {
+    "daily/2024-07-31.md": {
+      "initial": 14,
+      "current": 14
+    },
+    "work/README.md.md": {
+      "initial": 165,
+      "current": 166
+    },
+    "daily/2024-07-30.md": {
+      "initial": 39,
+      "current": 40
+    },
+    "work/MBC/Ma Boite de Com.md": {
+      "initial": 6,
+      "current": 9
+    },
+    "work/MBC/Dr. Claire Baptista.md": {
+      "initial": 5,
+      "current": 6
+    },
+    "work/work done.md": {
+      "initial": 100,
+      "current": 113
+    },
+    "La magie sauvera-t-elle le monde.md": {
+      "initial": 0,
+      "current": 4
+    }
+  }
+}
