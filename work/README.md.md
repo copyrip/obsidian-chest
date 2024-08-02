@@ -2,6 +2,7 @@
 * [ ] 📧 Contacter GRETA
 * [ ] 🗒 Inscription [[✉ 240722 potentiel-it]]
 * [ ] 💸 faire les comptes
+* [ ] 💸 remboursements levélo
 
 * [ ] 🧙‍♀ Lire texte Michèle [[La magie sauvera-t-elle le monde]]
 * [ ] 📧 Proposition Julien
@@ -13,11 +14,12 @@
 
 P E O P L E
 * [ ] Karim
+* [ ] Mamie
 * [ ] Murielle
 * [ ] Sylvie
 * [ ] Morgienne
 * [ ] Blazy
-* [ ] Bartholl
+* [ ] Barthos
 * [ ] Blondy
 * [ ] Dédé
 * [ ] Pauline
