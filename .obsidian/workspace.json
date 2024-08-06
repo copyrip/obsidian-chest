@@ -13,42 +13,45 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2024-08-01.md",
+                "file": "daily/2024-08-06.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "2550ffdeb43b6a0a",
+            "id": "98fef51560e14385",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2024-08-01.md",
+                "file": "work/encore/encore.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "19cd5fcc912f1934",
+            "id": "2f1fb9e057ae1d11",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "work/encore/wiring diagram.canvas",
+                "viewState": {
+                  "x": 154.3588760227438,
+                  "y": -393.75228774276064,
+                  "zoom": -0.22774612509126055
+                }
+              }
+            }
+          },
+          {
+            "id": "61b4cde0c123e0d8",
             "type": "leaf",
             "state": {
               "type": "full-calendar-view",
               "state": {}
-            }
-          },
-          {
-            "id": "e0aa49042795ffe6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily/2024-08-02.md",
-                "mode": "source",
-                "source": false
-              }
             }
           }
         ],
@@ -98,12 +101,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 206.5
+    "width": 332.5
   },
   "right": {
     "id": "8594cebaf1dd93ef",
@@ -119,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2024-08-02.md",
+                "file": "work/encore/wiring diagram.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2024-08-02.md",
+                "file": "work/encore/wiring diagram.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2024-08-02.md"
+                "file": "work/encore/wiring diagram.canvas"
               }
             }
           }
@@ -189,13 +191,26 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "e0aa49042795ffe6",
+  "active": "61b4cde0c123e0d8",
   "lastOpenFiles": [
+    "work/encore/encore.md",
+    "daily/2024-08-06.md",
+    "work/encore/wiring diagram.canvas",
+    "Linkedin Posts.md",
+    "daily/2024-08-05.md",
+    "work/README.md.md",
+    "events/misc/(Every S,F,R,W,T,M,U) tom + nina.md",
+    "events/friche on air/(Every S,F) la friche - on air.md",
+    "Untitled.md",
+    "events/ceva (proman)/(Every ) tom + nina.md",
+    "events/misc/2024-08-08 colin + morgan.md",
+    "events/misc/2024-08-01 colin.md",
+    "contestation ammende.md",
     "daily/2024-08-01.md",
+    "daily/2024-08-03.md",
     "daily/2024-08-02.md",
     "events/ceva (proman)/2024-08-26 Rdv PROJEX (murs mous).md",
     "events/misc",
-    "work/README.md.md",
     "daily/2024-07-31.md",
     "work/work done.md",
     "La magie sauvera-t-elle le monde.md",
@@ -206,22 +221,9 @@
     "daily/2024-07-30.md",
     "daily/2024-07-29.md",
     "work/MBC/Recommendations Baptista.md",
-    "Martin Campillo.md",
-    "caisse de dons.md",
     "Pasted image 20240729112232.png",
-    "Untitled 2.md",
-    "Untitled 1.md",
-    "Untitled.md",
-    "daily/2024-07-22.md",
-    "daily/2024-07-23.md",
-    "daily/2024-07-24.md",
-    "daily/2024-07-25.md",
-    "daily/2024-07-28.md",
-    "events/ceva (proman)/2024-07-30 ceva jo.md",
-    "TRACKER.md",
     "events/friche on air",
     "events/ceva (proman)",
-    "work/encore/wiring diagram.canvas",
     "events",
     "vault",
     "daily",

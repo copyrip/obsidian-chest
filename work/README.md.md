@@ -1,8 +1,15 @@
+* [ ] Cleaner TODO
+* [ ] write to people !!!! call greta
+* [ ] Postuler La Fabulerie
+* [ ] NEPH photo d'id
+* [ ] prendre rdv code
+* [ ] trouver auto école (ou ornikar)
 * [ ] 📧 Mail Pole Emploi
 * [ ] 📧 Contacter GRETA
 * [ ] 🗒 Inscription [[✉ 240722 potentiel-it]]
 * [ ] 💸 faire les comptes
 * [ ] 💸 remboursements levélo
+* [ ] 💌 lettre [[contestation ammende]]
 
 * [ ] 🧙‍♀ Lire texte Michèle [[La magie sauvera-t-elle le monde]]
 * [ ] 📧 Proposition Julien

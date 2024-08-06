@@ -9,6 +9,11 @@
       "type": "local",
       "color": "#b86f0a",
       "directory": "events/friche on air"
+    },
+    {
+      "type": "local",
+      "color": "#ddff80",
+      "directory": "events/misc"
     }
   ],
   "defaultCalendar": 0,

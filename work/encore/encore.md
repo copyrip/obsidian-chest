@@ -13,3 +13,5 @@ We can use anyfont we want, even multiples. The font needs to be in the TTC form
 
 ### call nico
 
+* close up connection GPIO
+* 
