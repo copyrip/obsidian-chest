@@ -1,17 +1,17 @@
 ## avec [[Astroturf]]
-* developpement site *web*
+* development site *web*
 * wordpress
 	* migration
 	* themes customisés
-	* maitenance
+	* maintenance
 * audit et optimisation seo
 
 
 * prototypage
 	* impression 3D
 	* électronique
-	* developement logiciel
-	* develoepement web
+	* développement logiciel
+	* développement web
 
 avec [[non-a]]
 * organisation
@@ -21,6 +21,7 @@ avec [[non-a]]
 avec [[1nd3x]]
 * streaming
 * production
-* conférencesç
+* conférences
 * animation
 * post production
+

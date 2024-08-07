@@ -5,24 +5,13 @@
     "2024/7/1": 23,
     "2024/7/2": 0,
     "2024/7/5": 299,
-    "2024/7/6": 20
+    "2024/7/6": 24,
+    "2024/7/7": 0
   },
   "todaysWordCount": {
-    "daily/2024-08-06.md": {
-      "initial": 14,
-      "current": 18
-    },
-    "daily/2024-08-05.md": {
-      "initial": 28,
-      "current": 29
-    },
-    "Linkedin Posts.md": {
-      "initial": 0,
-      "current": 11
-    },
-    "work/encore/encore.md": {
-      "initial": 46,
-      "current": 50
+    "daily/2024-08-07.md": {
+      "initial": 13,
+      "current": 13
     }
   }
 }

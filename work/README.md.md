@@ -62,8 +62,8 @@ H O M E
 
 
 * [ ] 📆 calendar on the wall
-* [ ] 🏚 mtg poster bunker
-* [ ] 🏚 thinkpad n2
+* [x] 🏚 mtg poster bunker
+* [x] 🏚 thinkpad n2
 * [ ] 📶 wifi name and password ?
 	* [ ] 13connecté?
 	* [ ] helloWorld
@@ -80,4 +80,4 @@ W E B H O M E
 [[work done]]
 
 
-by [[Martin Campillo]]
+by [[🖖 Martin Campillo]]
