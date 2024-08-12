@@ -19,16 +19,21 @@ Le développeur public est une personne qui développe des sites internet, écri
 ###  Materiel
 * [ ] 🪑 chaise pliable
 * [ ] 📂 porte vues (typos, et autre...)
+* [ ] gomettes !
 * [ ] 📦 table
 * [ ] 🏖 parasol
 * [ ] 🚩 pancartes
 * [ ] ❔[[caisse de dons]]
+* [ ]  exemples
+	* [ ] mockup navitateur desktop
+	* [ ] mockup navigateur mobile
+
 
 #### slogans
 * garanti sans I.A.
 * garanti sans GAFAM
 * garanti sans surveillance
-* garanti sans cookie)s
+* garanti sans cookies
 ## Process
 
 ### design

@@ -6,12 +6,29 @@
     "2024/7/2": 0,
     "2024/7/5": 299,
     "2024/7/6": 24,
-    "2024/7/7": 0
+    "2024/7/7": 20,
+    "2024/7/8": 0,
+    "2024/7/9": 9,
+    "2024/7/10": 136,
+    "2024/7/11": 652,
+    "2024/7/12": 12
   },
   "todaysWordCount": {
-    "daily/2024-08-07.md": {
+    "daily/2024-08-12.md": {
       "initial": 13,
       "current": 13
+    },
+    "events/ceva (proman)/(Every ) Tim ✌️ .md": {
+      "initial": 16,
+      "current": 22
+    },
+    "work/README.md.md": {
+      "initial": 196,
+      "current": 202
+    },
+    "Lettre de motivation Chroniques.md": {
+      "initial": 774,
+      "current": 658
     }
   }
 }

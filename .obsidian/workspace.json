@@ -4,22 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "644ec64ebe93149e",
+        "id": "7aad274cce4f07b6",
         "type": "tabs",
         "children": [
           {
-            "id": "70e0122c093f5c2e",
+            "id": "c6a0f303b5802e74",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2024-08-07.md",
+                "file": "work/README.md.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2c90d493c5f62268",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "8af91ec645ad89b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lettre de motivation Chroniques.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2024-08-07.md",
+                "file": "Lettre de motivation Chroniques.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2024-08-07.md",
+                "file": "Lettre de motivation Chroniques.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2024-08-07.md"
+                "file": "Lettre de motivation Chroniques.md"
               }
             }
           }
@@ -155,36 +176,36 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "70e0122c093f5c2e",
+  "active": "8af91ec645ad89b7",
   "lastOpenFiles": [
-    "daily/2024-08-06.md",
-    "daily/2024-08-07.md",
-    "TRACKER.md",
     "work/README.md.md",
+    "daily/2024-08-12.md",
+    "Lettre de motivation Chroniques.md",
+    "events/misc/2024-08-14 🦷 Rdv Dentiste.md",
+    "🖖 Martin Campillo.md",
+    "daily/2024-08-11.md",
+    "events/ceva (proman)/(Every ) Tim ✌️ .md",
+    "events/misc/2024-08-15 SOIRÉE DE SOUTIENT.md",
+    "events/misc/2024-08-18 🤍  raphaelle.md",
+    "Untitled 1.md",
+    "work/work done.md",
+    "Untitled.md",
+    "daily/2024-08-10.md",
+    "daily/2024-08-08.md",
+    "work/Développeur Public.md",
+    "BANGERS.md",
+    "daily/2024-08-09.md",
+    "VICVO.md",
+    "daily/2024-08-07.md",
+    "daily/2024-08-06.md",
+    "work/Linkedin Posts.md",
+    "TRACKER.md",
     "tickets de caisse.md",
     "spécimen typographique.md",
-    "🖖 Martin Campillo.md",
     "Nettoyer ses liens.md",
-    "work/Linkedin Posts.md",
     "work/encore/encore.md",
     "work/encore/wiring diagram.canvas",
-    "events/misc/2024-08-13 TR13ZE.md",
-    "daily/2024-08-05.md",
-    "events/misc/(Every S,F,R,W,T,M,U) tom + nina.md",
-    "events/friche on air/(Every S,F) la friche - on air.md",
-    "events/ceva (proman)/(Every ) tom + nina.md",
-    "events/misc/2024-08-08 colin + morgan.md",
-    "events/misc/2024-08-01 colin.md",
-    "contestation ammende.md",
-    "daily/2024-08-01.md",
-    "daily/2024-08-03.md",
-    "daily/2024-08-02.md",
-    "events/ceva (proman)/2024-08-26 Rdv PROJEX (murs mous).md",
     "events/misc",
-    "daily/2024-07-31.md",
-    "work/work done.md",
-    "work/La magie sauvera-t-elle le monde.md",
-    "work/MBC/Ma Boite de Com.md",
     "Pasted image 20240729112232.png",
     "events/friche on air",
     "events/ceva (proman)",

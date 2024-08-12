@@ -1,3 +1,7 @@
+#### 2024-08-11
+* [x] 💸 Anais
+* [x] 💸 Loyer
+* [x] Actualisation POLE EMPLOI
 #### 2024-07-31 (mercredi)
 * [x] 🛒 Courses repas
 * [x] 🏚 ranger salon

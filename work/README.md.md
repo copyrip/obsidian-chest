@@ -1,4 +1,8 @@
+
 * [ ] Cleaner TODO
+* [ ] ⚠ non-a webserver !
+
+* [x] 📧 Mail HPP
 * [ ] write to people !!!! call greta
 * [ ] Postuler La Fabulerie
 * [ ] NEPH photo d'id

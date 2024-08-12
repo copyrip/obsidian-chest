@@ -4,7 +4,10 @@
   "historyPriority": true,
   "historyLimit": 100,
   "history": [
+    ":warning:",
     ":vulcan_salute:",
+    ":money_with_wings:",
+    ":email:",
     ":laughing:",
     ":bulb:",
     ":love_letter:",
@@ -12,10 +15,8 @@
     ":calendar:",
     ":signal_strength:",
     ":white_check_mark:",
-    ":money_with_wings:",
     ":feather:",
     ":shopping_cart:",
-    ":warning:",
     ":statue_of_liberty:",
     ":mage_woman:",
     ":package:",
@@ -48,7 +49,6 @@
     ":ok_hand:",
     ":sponge:",
     ":shirt:",
-    ":email:",
     ":e-mail:",
     ":spiral_notepad:"
   ]
