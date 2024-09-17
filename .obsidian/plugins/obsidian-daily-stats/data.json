@@ -11,24 +11,55 @@
     "2024/7/9": 9,
     "2024/7/10": 136,
     "2024/7/11": 652,
-    "2024/7/12": 12
+    "2024/7/12": 53,
+    "2024/7/13": 200,
+    "2024/7/14": 913,
+    "2024/7/17": 73,
+    "2024/7/19": 655,
+    "2024/7/20": 338,
+    "2024/7/26": 0,
+    "2024/7/27": 326,
+    "2024/7/28": 147,
+    "2024/7/29": 26,
+    "2024/7/30": 7,
+    "2024/8/2": 25,
+    "2024/8/3": 38,
+    "2024/8/4": 958,
+    "2024/8/5": 530,
+    "2024/8/9": 46,
+    "2024/8/10": 15,
+    "2024/8/11": 34,
+    "2024/8/12": 57,
+    "2024/8/17": 82
   },
   "todaysWordCount": {
-    "daily/2024-08-12.md": {
-      "initial": 13,
-      "current": 13
+    "daily/2024-09-17.md": {
+      "initial": 12,
+      "current": 11
     },
-    "events/ceva (proman)/(Every ) Tim ✌️ .md": {
-      "initial": 16,
-      "current": 22
+    "work/🗒 README.md.md": {
+      "initial": 290,
+      "current": 299
     },
-    "work/README.md.md": {
-      "initial": 196,
-      "current": 202
+    "BOOKS.md": {
+      "initial": 0,
+      "current": 0
     },
-    "Lettre de motivation Chroniques.md": {
-      "initial": 774,
-      "current": 658
+    "📖 BOOKS.md": {
+      "initial": 1,
+      "current": 2
+    },
+    "work/encore/basile/No Brainer.md": {
+      "initial": 108,
+      "current": 162
+    },
+    "TOOLS.md": {
+      "initial": 19,
+      "current": 20
+    },
+    "work/work done.md": {
+      "initial": 259,
+      "current": 276
     }
   }
 }

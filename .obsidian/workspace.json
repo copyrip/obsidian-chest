@@ -4,43 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "7aad274cce4f07b6",
+        "id": "0ae915425274206c",
         "type": "tabs",
         "children": [
           {
-            "id": "c6a0f303b5802e74",
+            "id": "163fe6b26208d3db",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "work/README.md.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2c90d493c5f62268",
-            "type": "leaf",
-            "state": {
-              "type": "full-calendar-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "8af91ec645ad89b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lettre de motivation Chroniques.md",
+                "file": "work/🗒 README.md.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
+      },
+      {
+        "id": "2166b29d502ca4ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b8018d0d9016fee6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "work/work done.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 332.5
+    "width": 294.5
   },
   "right": {
     "id": "8594cebaf1dd93ef",
@@ -100,35 +97,6 @@
         "id": "23f0a4206b6dab55",
         "type": "tabs",
         "children": [
-          {
-            "id": "bf2a869a2b072da0",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Lettre de motivation Chroniques.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "18d6f954e59c179c",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Lettre de motivation Chroniques.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
           {
             "id": "401bc4bb456d040b",
             "type": "leaf",
@@ -141,7 +109,7 @@
             }
           },
           {
-            "id": "47f88fbd3a996b74",
+            "id": "9ba3a0d7aef55079",
             "type": "leaf",
             "state": {
               "type": "stats-tracker",
@@ -149,12 +117,41 @@
             }
           },
           {
-            "id": "82d4f1e4482039e8",
+            "id": "26789baaba71af1f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "work/🗒 README.md.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6f34041c50c33346",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "work/🗒 README.md.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bcafd14b29bf9505",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lettre de motivation Chroniques.md"
+                "file": "work/🗒 README.md.md"
               }
             }
           }
@@ -163,7 +160,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,45 +174,45 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "8af91ec645ad89b7",
+  "active": "163fe6b26208d3db",
   "lastOpenFiles": [
-    "work/README.md.md",
-    "daily/2024-08-12.md",
-    "Lettre de motivation Chroniques.md",
-    "events/misc/2024-08-14 🦷 Rdv Dentiste.md",
-    "🖖 Martin Campillo.md",
-    "daily/2024-08-11.md",
-    "events/ceva (proman)/(Every ) Tim ✌️ .md",
-    "events/misc/2024-08-15 SOIRÉE DE SOUTIENT.md",
-    "events/misc/2024-08-18 🤍  raphaelle.md",
-    "Untitled 1.md",
     "work/work done.md",
-    "Untitled.md",
-    "daily/2024-08-10.md",
-    "daily/2024-08-08.md",
-    "work/Développeur Public.md",
-    "BANGERS.md",
-    "daily/2024-08-09.md",
-    "VICVO.md",
-    "daily/2024-08-07.md",
-    "daily/2024-08-06.md",
-    "work/Linkedin Posts.md",
+    "work/🗒 README.md.md",
+    "work/encore/basile/No Brainer.md",
+    "TOOLS.md",
+    "📖 BOOKS.md",
+    "events/chroniques/(Every S,F,W,T,M) 1st Week.md",
+    "events/chroniques",
+    "daily/2024-09-17.md",
+    "TR13ZE.md",
+    "daily/2024-09-10.md",
+    "daily/2024-09-11.md",
+    "daily template.md",
     "TRACKER.md",
-    "tickets de caisse.md",
-    "spécimen typographique.md",
-    "Nettoyer ses liens.md",
-    "work/encore/encore.md",
-    "work/encore/wiring diagram.canvas",
+    "TK.md",
+    "Pavel Durov.md",
+    "🖖 Martin Campillo.md",
+    "work/encore/basile/wiring diagram.canvas",
+    "Telegramme sucks.md",
+    "daily/2024-09-09.md",
+    "daily/2024-07-22.md",
+    "daily/2024-08-07.md",
+    "Chants Magnétiques.md",
+    "daily/2024-09-04.md",
+    "daily/2024-09-05.md",
+    "Untitled.md",
+    "daily/2024-09-03.md",
+    "daily/2024-08-30.md",
+    "daily/2024-09-02.md",
+    "work/misc/public-dev",
+    "work/misc",
+    "archive",
+    "work/encore/cdg",
+    "work/encore/basile",
     "events/misc",
     "Pasted image 20240729112232.png",
     "events/friche on air",
     "events/ceva (proman)",
-    "events",
-    "vault",
-    "daily",
-    "work/interim",
-    "work/encore",
-    "work/MBC",
-    "work/mails"
+    "events"
   ]
 }

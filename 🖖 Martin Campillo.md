@@ -1,12 +1,17 @@
-## avec [[Astroturf]]
+
+
+---  
+#### various stuff
+
+ avec [[Astroturf]]
 * development site *web*
-* wordpress
+* WordPress
 	* migration
 	* themes customisés
 	* maintenance
-* audit et optimisation seo
+* audit et optimisation SEO
 
-
+alone ?
 * prototypage
 	* impression 3D
 	* électronique
@@ -24,4 +29,11 @@ avec [[1nd3x]]
 * conférences
 * animation
 * post production
+
+avec Eukairos
+* webmaster
+* régie technique
+* signalétique
+* acceuil
+
 

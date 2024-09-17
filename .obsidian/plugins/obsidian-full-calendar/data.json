@@ -14,6 +14,11 @@
       "type": "local",
       "color": "#ddff80",
       "directory": "events/misc"
+    },
+    {
+      "type": "local",
+      "color": "#00ff00",
+      "directory": "events/chroniques"
     }
   ],
   "defaultCalendar": 0,
